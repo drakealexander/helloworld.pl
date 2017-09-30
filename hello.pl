@@ -1,5 +1,4 @@
 
-$ vim helloworld.pl
 
 #!/usr/bin/perl
 
